@@ -1,0 +1,7 @@
+{
+	"PROJECT_ID":"gcp-project-0523",
+	"REGION":"us-central1",
+	"BUCKET":"gcp-project-0523-bucket",
+	"SYNTHETIC_DATA_FILE_NM":"cc_data.csv",
+	"INSTANCE_LIST_FILE_NM":"cc_read_instance_list.csv"
+}
